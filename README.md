@@ -1,5 +1,5 @@
 # React Feedback App
-This application was modeled after Brad Traversy's React Front To Back 2022 course and demonstrates understanding of:
+This application was modeled after Brad Traversy's React Front To Back 2022 course project and demonstrates understanding of:
 * Components
 * JSX
 * Props (proptypes, defaultprops, etc)
